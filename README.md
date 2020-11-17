@@ -1,5 +1,5 @@
 # Exeskeleton-Project-Files
-Here is the link for the youtube video of short intro video [youtube video](https://www.youtube.com/watch?v=GtcncEn_yxg&list=PL3EFm54Q_2615T5O42ppe13vlwM8GPgXn&index=3&ab_channel=Mehmet%C4%B0%C5%9Fcan)
+Here is the link for the youtube video of short intro video [youtube video.](https://www.youtube.com/watch?v=GtcncEn_yxg&list=PL3EFm54Q_2615T5O42ppe13vlwM8GPgXn&index=3&ab_channel=Mehmet%C4%B0%C5%9Fcan)
 This repo contains some useful files for my thesis project which is an EMG Controlled Exoskeleton Leg Mechanism.
 
 ## Project Report
